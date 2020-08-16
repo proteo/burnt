@@ -1,0 +1,26 @@
+<idea-plugin>
+  <id>com.proteo.intellij.burnt</id>
+  <name>Burnt Theme</name>
+  <version>1.0</version>
+  <vendor url="https://github.com/proteo">Proteo</vendor>
+
+  <description><![CDATA[
+      Burnt Theme for JetBrains IDEs. A dark theme with the right visual clues to assist you in your long coding journeys.
+      <br/><br/>
+      The accompanying color scheme features a rich, vibrant palette carefully tuned to help you stay focused and productive.
+      <br/><br/>
+      Contribute with GitHub: <a href="https://github.com/proteo/burnt">https://github.com/proteo/burnt</a>
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/proteo/burnt/master/screenshots/Burnt_Theme_small_1.png" border="0">
+      <br/><br/>
+      <img src="https://raw.githubusercontent.com/proteo/burnt/master/screenshots/Burnt_Theme_small_2.png" border="0">
+    ]]></description>
+
+  <idea-version since-build="191.0"/>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="ed16a7fc-a2e4-4090-b5e4-7e7dd8872c4b" path="/burnt.theme.json"/>
+  </extensions>
+</idea-plugin>
