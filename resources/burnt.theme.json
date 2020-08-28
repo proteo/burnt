@@ -361,7 +361,7 @@
     },
 
     "Table": {
-      "stripeColor": "#2d2a2f",
+      "stripeColor": "#222222",
       "gridColor": "borderPrimary",
       "focusCellForeground": "focusPrimary",
       "rowHeight": 24
