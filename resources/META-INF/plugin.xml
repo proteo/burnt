@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.proteo.intellij.burnt</id>
   <name>Burnt Theme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor url="https://github.com/proteo">Proteo</vendor>
 
   <description><![CDATA[
