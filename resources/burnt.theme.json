@@ -17,7 +17,7 @@
     "backgroundShadowSoft": "#161616",
     "borderPrimary": "#2b2b2b",
     "borderSecondary": "#161616",
-    "accentPrimary": "#5674a7",
+    "accentPrimary": "#BCD42A",
     "focusPrimary": "#b0b0c3",
     "disabledText": "#3c3c40"
   },
@@ -150,8 +150,9 @@
 
     "TabbedPane": {
       "underlineColor": "accentPrimary",
-      "disabledUnderlineColor": "accentPrimary",
-      "contentAreaColor": "borderPrimary"
+      "disabledUnderlineColor": "borderPrimary",
+      "contentAreaColor": "borderPrimary",
+      "tabSelectionHeight": 1
     },
 
     "ComboBox": {
@@ -226,10 +227,10 @@
     },
 
     "Link": {
-      "activeForeground": "accentPrimary",
+      "activeForeground": "#5674a7",
       "hoverForeground": "#5d75c3",
       "pressedForeground": "#2b569e",
-      "visitedForeground": "accentPrimary"
+      "visitedForeground": "#5674a7"
     },
 
     "Notification": {
