@@ -60,7 +60,7 @@
     <attributes>
         <option name="BAD_CHARACTER">
             <value>
-                <option name="EFFECT_COLOR" value="bc1d36" />
+                <option name="EFFECT_COLOR" value="8C1616" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -510,8 +510,8 @@
         </option>
         <option name="ERRORS_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="bc1d36" />
-                <option name="ERROR_STRIPE_COLOR" value="bc1d36" />
+                <option name="EFFECT_COLOR" value="8C1616" />
+                <option name="ERROR_STRIPE_COLOR" value="8C1616" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -888,7 +888,7 @@
             <value>
                 <option name="FOREGROUND" value="808080" />
                 <option name="EFFECT_COLOR" value="808080" />
-                <option name="ERROR_STRIPE_COLOR" value="bc1d36" />
+                <option name="ERROR_STRIPE_COLOR" value="8C1616" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -1246,8 +1246,8 @@
         </option>
         <option name="WARNING_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="bc1d36" />
-                <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
+                <option name="EFFECT_COLOR" value="8C5D00" />
+                <option name="ERROR_STRIPE_COLOR" value="8C5D00" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
@@ -1264,9 +1264,9 @@
         </option>
         <option name="WRONG_REFERENCES_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="bc1d36" />
-                <option name="EFFECT_COLOR" value="bc1d36" />
-                <option name="ERROR_STRIPE_COLOR" value="bc1d36" />
+                <option name="FOREGROUND" value="8C1616" />
+                <option name="EFFECT_COLOR" value="8C1616" />
+                <option name="ERROR_STRIPE_COLOR" value="8C1616" />
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
