@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.proteo.intellij.burnt</id>
   <name>Burnt Theme</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor url="https://github.com/proteo">Proteo</vendor>
 
   <description><![CDATA[
@@ -9,12 +9,21 @@
       <br/><br/>
       The accompanying color scheme features a rich, vibrant palette carefully tuned to help you stay focused and productive.
       <br/><br/>
-      Contribute with GitHub: <a href="https://github.com/proteo/burnt">https://github.com/proteo/burnt</a>
+      Why the Burnt theme? Simple, because other dark themes are not dark enough for my taste. This is a really dark theme, crafted with great attention to the details. Hope you enjoy it as much as I do!
       <br/><br/>
       <img src="https://raw.githubusercontent.com/proteo/burnt/master/screenshots/Burnt_Theme_small_1.png" border="0">
       <br/><br/>
       <img src="https://raw.githubusercontent.com/proteo/burnt/master/screenshots/Burnt_Theme_small_2.png" border="0">
+      <br/><br/>
+      Contribute with GitHub: <a href="https://github.com/proteo/burnt">https://github.com/proteo/burnt</a>
     ]]></description>
+
+  <change-notes><![CDATA[
+    <ul>
+    <li>v1.1 A few more UI elements are colorized. Active tab underline color is more visible. Several other subtle adjustments.</li>
+    <ul>
+    ]]>
+  </change-notes>
 
   <idea-version since-build="191.0"/>
 

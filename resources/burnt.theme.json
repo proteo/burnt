@@ -9,6 +9,7 @@
     "black": "#000000",
     "foregroundPrimary": "#888b92",
     "foregroundSecondary": "#505058",
+    "foregroundTintStrong": "#616166",
     "selectedForeground": "#fbfbfc",
     "backgroundPrimary": "#1d1d1d",
     "backgroundTintFaint": "#242424",
@@ -19,7 +20,9 @@
     "borderSecondary": "#161616",
     "accentPrimary": "#BCD42A",
     "focusPrimary": "#b0b0c3",
-    "disabledText": "#3c3c40"
+    "disabledText": "#3c3c40",
+    "errorBackground": "#351111",
+    "warningBackground": "#30301a"
   },
 
   "ui": {
@@ -29,6 +32,7 @@
       "borderColor": "borderPrimary",
 
       "textForeground": "foregroundPrimary",
+      "textBackground": "backgroundPrimary",
       "caretForeground": "foregroundPrimary",
       "infoForeground": "foregroundSecondary",
 
@@ -49,17 +53,17 @@
       "lightSelectionInactiveForeground":"foregroundPrimary",
       "lightSelectionInactiveBackground": "#282629",
 
-      "inactiveForeground": "foregroundPrimary",
+      "inactiveForeground": "foregroundTintStrong",
       "inactiveBackground": "#2d2a2f",
 
-      "disabledText": "disabledText",
+      "disabledText": "#545450",
       "disabledForeground": "disabledText",
       "disabledBackground": "borderPrimary",
       "disabledBorderColor": "borderPrimary",
 
       "focusColor": "focusPrimary",
-      "focusWidth": 1,
       "focusedBorderColor": "focusPrimary",
+      "focusWidth": 1,
 
       "errorForeground": "#f92672",
 
@@ -72,7 +76,7 @@
 
       "dropLineColor": "borderPrimary",
 
-      "modifiedItemForeground": "#ab9df3",
+      "modifiedItemForeground": "#0c7322",
 
       "Advertiser": {
         "foreground": "foregroundSecondary",
@@ -177,7 +181,6 @@
     "Component": {
       "borderColor": "#383838",
       "focusColor": "focusPrimary",
-      "focusWidth": 1,
       "errorFocusColor": "#ce5070",
       "inactiveErrorFocusColor": "#912f48",
       "warningFocusColor": "#777233",
@@ -187,8 +190,8 @@
     },
 
     "Counter": {
-      "background": "#FFFFFF80",
-      "foreground": "black"
+      "background": "backgroundTintStrong",
+      "foreground": "focusPrimary"
     },
 
     "DebuggerTabs": {
@@ -203,6 +206,10 @@
       "areaForeground": "#2d2a2f",
       "areaBackground": "#49d3e5",
       "areaBorderColor": "#3a6a70"
+    },
+
+    "ToolBar": {
+      "borderHandleColor": "borderPrimary"
     },
 
     "Editor": {
@@ -259,6 +266,9 @@
     },
 
     "ParameterInfo": {
+      "background": "backgroundPrimary",
+      "foreground": "foregroundPrimary",
+      "infoForeground": "foregroundSecondary",
       "currentOverloadBackground": "backgroundPrimary",
       "currentParameterForeground": "foregroundPrimary"
     },
@@ -343,12 +353,22 @@
       "Tab": {
         "selectedForeground": "selectedForeground",
         "selectedBackground": "#272728"
+      },
+
+      "List": {
+        "separatorForeground": "foregroundTintStrong"
       }
     },
+
+    "Settings.Spotlight.borderColor": "focusPrimary",
 
     "SearchMatch": {
       "startBackground": "#b1b1b1",
       "endBackground": "#b1b1b1"
+    },
+
+    "SearchField": {
+      "errorBackground": "errorBackground"
     },
 
     "SpeedSearch": {
@@ -435,13 +455,17 @@
     "windowText": "foregroundPrimary",
 
     "FileColor": {
-      "Yellow": "#30301a",
+      "Yellow": "warningBackground",
       "Green": "#1e231c",
       "Blue": "#1d2029",
       "Violet": "#241e27",
       "Orange": "#2d251a",
       "Rose": "#2a1e24"
     }
+  },
+
+  "SplitPane": {
+    "highlight": "backgroundPrimary"
   },
 
   "icons": {

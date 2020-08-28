@@ -6,21 +6,31 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </expand>
-    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-    </select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe5e23dd-b044-4faf-b222-5143f34ff749" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/burnt.jar" beforeDir="false" afterPath="$PROJECT_DIR$/burnt.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/burnt/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/burnt/burnt.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/burnt.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/burnt/themes/burnt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/themes/burnt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_small_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_small_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_small_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_small_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/burnt.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/burnt.theme.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +49,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -46,11 +67,16 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="proportion" value="0.40898436" />
+    <option name="showPreview" value="true" />
+  </component>
   <component name="ProjectId" id="1g4ZgF9TK0d81V5Ayjtu1JMDjkf" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
@@ -59,13 +85,25 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.304" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.JPA/Hibernate QL" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.25494674" />
   </component>
   <component name="RecentsManager">
@@ -126,6 +164,28 @@
       <workItem from="1597602907060" duration="11683000" />
       <workItem from="1597619076473" duration="104000" />
       <workItem from="1597619221559" duration="18000" />
+      <workItem from="1597624823122" duration="1644000" />
+      <workItem from="1597626642890" duration="4842000" />
+      <workItem from="1597669239302" duration="3740000" />
+      <workItem from="1597673732665" duration="1760000" />
+      <workItem from="1597709399328" duration="677000" />
+      <workItem from="1597863622859" duration="798000" />
+      <workItem from="1598012122735" duration="6000" />
+      <workItem from="1598378614219" duration="7931000" />
+      <workItem from="1598447923342" duration="2217000" />
+      <workItem from="1598454614296" duration="91000" />
+      <workItem from="1598455050660" duration="2452000" />
+      <workItem from="1598472497366" duration="1258000" />
+      <workItem from="1598477400018" duration="1678000" />
+      <workItem from="1598479177496" duration="818000" />
+      <workItem from="1598480004434" duration="2538000" />
+      <workItem from="1598498272325" duration="55000" />
+      <workItem from="1598620054817" duration="992000" />
+      <workItem from="1598627041318" duration="142000" />
+      <workItem from="1598627818369" duration="6000" />
+      <workItem from="1598627866198" duration="50000" />
+      <workItem from="1598628802568" duration="1461000" />
+      <workItem from="1598631005098" duration="6000" />
     </task>
     <servers />
   </component>
@@ -160,6 +220,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="747" y="395" width="1101" height="672" key="#Inspections" timestamp="1598472831482">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="747" y="395" width="1101" height="672" key="#Inspections/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598472831482" />
+    <state x="1021" y="546" key="#Notifications" timestamp="1597709080840">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1021" y="546" key="#Notifications/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597709080840" />
+    <state x="880" y="379" key="#Plugins" timestamp="1597709913047">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="880" y="379" key="#Plugins/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597709913047" />
+    <state x="970" y="361" key="#XML" timestamp="1598456398987">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="970" y="361" key="#XML/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598456398987" />
     <state x="976" y="543" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1597603557869">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
@@ -220,31 +296,43 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state width="2560" height="348" key="GridCell.Tab.2.right/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597463594778" />
+    <state x="868" y="481" key="IDE.errors.dialog" timestamp="1598484132178">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="868" y="481" key="IDE.errors.dialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598484132178" />
+    <state x="1024" y="606" key="NotificationTestAction" timestamp="1598479745673">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="1024" y="606" key="NotificationTestAction/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598479745673" />
     <state x="1025" y="400" key="RollbackChangesDialog" timestamp="1597447621444">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1025" y="400" key="RollbackChangesDialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597447621444" />
-    <state x="580" y="261" width="1318" height="916" key="SettingsEditor" timestamp="1597615381608">
+    <state x="672" y="242" width="1367" height="792" key="SettingsEditor" timestamp="1598629508738">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="580" y="261" width="1318" height="916" key="SettingsEditor/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597615381608" />
+    <state x="672" y="242" width="1367" height="792" key="SettingsEditor/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598629508738" />
     <state x="2893" y="394" width="1230" height="844" key="SettingsEditor/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@2560.192.1920.1200" timestamp="1597517061137" />
-    <state x="643" y="326" width="1314" height="804" key="SettingsEditor/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1597418946801" />
+    <state x="575" y="318" width="1314" height="804" key="SettingsEditor/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1598409843100" />
     <state x="1009" y="469" width="540" height="524" key="StructurePopup" timestamp="1597464308084">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="1009" y="469" width="540" height="524" key="StructurePopup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597464308084" />
-    <state x="-1441" y="360" width="1215" height="944" key="UI.Defaults.Dialog" timestamp="1597606825089">
+    <state x="-1420" y="379" width="1163" height="790" key="UI.Defaults.Dialog" timestamp="1598479994172">
       <screen x="-1920" y="192" width="1920" height="1200" />
     </state>
     <state x="2776" y="364" key="UI.Defaults.Dialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@-1920.192.1920.1200" timestamp="1597468759238" />
-    <state x="-1441" y="360" width="1198" height="949" key="UI.Defaults.Dialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597606825089" />
+    <state x="-1420" y="379" width="1163" height="790" key="UI.Defaults.Dialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598479994172" />
     <state x="765" y="340" width="1215" height="944" key="UI.Defaults.Dialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@2560.192.1920.1200" timestamp="1597514015307" />
-    <state x="3193" y="387" width="1166" height="763" key="UI.Defaults.Dialog/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1597419809015" />
-    <state x="843" y="385" width="1574" height="774" key="UiInspectorWindow" timestamp="1597471184433">
+    <state x="489" y="351" width="1166" height="763" key="UI.Defaults.Dialog/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1598410067763" />
+    <state x="1011" y="595" width="1110" height="449" key="UiDebugger" timestamp="1598479630856">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="696" y="337" width="1574" height="774" key="UiInspectorWindow/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597464277695" />
+    <state x="1011" y="595" width="1110" height="449" key="UiDebugger/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598479630856" />
+    <state x="569" y="350" width="1574" height="774" key="UiInspectorWindow" timestamp="1598479345203">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="569" y="350" width="1574" height="774" key="UiInspectorWindow/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598479345203" />
     <state x="843" y="385" width="1574" height="774" key="UiInspectorWindow/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@2560.192.1920.1200" timestamp="1597471184433" />
     <state x="719" y="340" width="1574" height="774" key="UiInspectorWindow/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1597412694802" />
     <state x="1168" y="651" key="VCS.EditChangelistDialog" timestamp="1597446145497">
@@ -255,19 +343,33 @@
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="100" y="123" width="2360" height="1217" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597447581388" />
-    <state x="889" y="297" width="782" height="868" key="find.popup" timestamp="1597606818483">
+    <state x="889" y="297" width="782" height="868" key="find.popup" timestamp="1598621077032">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="889" y="297" width="782" height="868" key="find.popup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597606818483" />
+    <state x="889" y="297" width="782" height="868" key="find.popup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1598621077032" />
     <state x="3227" y="424" width="586" height="735" key="find.popup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@2560.192.1920.1200" timestamp="1597513162395" />
     <state x="905" y="568" width="772" height="604" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597468706861">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
     <state x="905" y="568" width="772" height="604" key="org.intellij.images.editor.actions.BackgroundImageDialog/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597468706861" />
-    <state x="893" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1597607634831">
+    <state x="893" y="346" width="672" height="678" key="search.everywhere.popup" timestamp="1597630663172">
       <screen x="0" y="23" width="2560" height="1417" />
     </state>
-    <state x="893" y="346" width="672" height="678" key="search.everywhere.popup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597607634831" />
+    <state x="893" y="346" width="672" height="678" key="search.everywhere.popup/2560.192.1920.1200/0.23.2560.1417/-1920.192.1920.1200@0.23.2560.1417" timestamp="1597630663172" />
     <state x="893" y="346" width="672" height="678" key="search.everywhere.popup/2560.205.1920.1200/0.23.2560.1417@0.23.2560.1417" timestamp="1597418499850" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="burnt" type="b2602c69:ProjectViewProjectNode" />
+        <item name="burnt" type="462c0819:PsiDirectoryNode" />
+      </path>
+      <path>
+        <item name="burnt" type="b2602c69:ProjectViewProjectNode" />
+        <item name="burnt" type="462c0819:PsiDirectoryNode" />
+        <item name="resources" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
 </project>
