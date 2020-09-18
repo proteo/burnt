@@ -4,7 +4,7 @@
         <property name="created">2020-08-12T13:24:35</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2020-08-12T13:24:35</property>
+        <property name="modified">2020-09-17T11:52:18</property>
     </metaInfo>
     <colors>
         <option name="ADDED_LINES_COLOR" value="354520" />
@@ -122,7 +122,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="2f2832" />
+                <option name="BACKGROUND" value="222222" />
             </value>
         </option>
         <option name="BROWSEWORDATCARET">
@@ -304,6 +304,8 @@
         </option>
         <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
         <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="DEBUGGER_SMART_STEP_INTO_SELECTION" baseAttributes="LIVE_TEMPLATE_ATTRIBUTES" />
+        <option name="DEBUGGER_SMART_STEP_INTO_TARGET" baseAttributes="SEARCH_RESULT_ATTRIBUTES" />
         <option name="DEFAULT_ATTRIBUTE">
             <value>
                 <option name="FOREGROUND" value="ff5d38" />
@@ -517,17 +519,17 @@
         </option>
         <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="373737" />
+                <option name="BACKGROUND" value="222222" />
             </value>
         </option>
         <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="414141" />
+                <option name="BACKGROUND" value="470909" />
             </value>
         </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="4b1400" />
+                <option name="BACKGROUND" value="470909" />
             </value>
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
