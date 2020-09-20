@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.proteo.intellij.burnt</id>
   <name>Burnt Theme</name>
-  <version>1.1</version>
+  <version>1.2</version>
   <vendor url="https://github.com/proteo">Proteo</vendor>
 
   <description><![CDATA[
@@ -20,6 +20,7 @@
 
   <change-notes><![CDATA[
     <ul>
+    <li>v1.2 Reworked DIFF, VCS and debugger colors. Slightly brighter hue for selection background.</li>
     <li>v1.1 A few more UI elements are colorized. Active tab underline color is more visible. Several other subtle adjustments.</li>
     <ul>
     ]]>

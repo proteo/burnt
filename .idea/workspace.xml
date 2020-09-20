@@ -20,17 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe5e23dd-b044-4faf-b222-5143f34ff749" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/burnt.jar" beforeDir="false" afterPath="$PROJECT_DIR$/burnt.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/burnt/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/burnt/burnt.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/burnt.theme.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/burnt/themes/burnt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/burnt/themes/burnt.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/burnt.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/resources/burnt.theme.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Burnt_Theme_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/Burnt_Theme_3.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;JSON" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;TEXT&#10;JSON" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -186,6 +180,11 @@
       <workItem from="1598627866198" duration="50000" />
       <workItem from="1598628802568" duration="1461000" />
       <workItem from="1598631005098" duration="6000" />
+      <workItem from="1600374716855" duration="454000" />
+      <workItem from="1600377627363" duration="386000" />
+      <workItem from="1600378675462" duration="465000" />
+      <workItem from="1600388800911" duration="954000" />
+      <workItem from="1600609673784" duration="81000" />
     </task>
     <servers />
   </component>
