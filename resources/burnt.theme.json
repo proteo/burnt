@@ -463,11 +463,11 @@
       "Violet": "#241e27",
       "Orange": "#2d251a",
       "Rose": "#2a1e24"
-    }
-  },
+    },
 
-  "SplitPane": {
-    "highlight": "backgroundPrimary"
+    "SplitPane": {
+      "highlight": "backgroundPrimary"
+    }
   },
 
   "icons": {
