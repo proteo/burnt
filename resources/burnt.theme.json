@@ -204,9 +204,9 @@
     },
 
     "DragAndDrop": {
-      "areaForeground": "#2d2a2f",
-      "areaBackground": "#49d3e5",
-      "areaBorderColor": "#3a6a70"
+      "areaForeground": "foregroundPrimary",
+      "areaBackground": "backgroundTintSoft",
+      "areaBorderColor": "borderSecondary"
     },
 
     "ToolBar": {
