@@ -153,6 +153,7 @@
     },
 
     "TabbedPane": {
+      "focusColor": "backgroundTintStrong",
       "underlineColor": "accentPrimary",
       "disabledUnderlineColor": "borderPrimary",
       "contentAreaColor": "borderPrimary",
