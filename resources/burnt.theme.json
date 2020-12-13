@@ -220,7 +220,7 @@
     },
 
     "EditorPane": {
-      "foreground": "foregroundPrimary",
+      "foreground": "#foregroundPrimary",
       "background": "backgroundPrimary",
       "inactiveBackground": "backgroundPrimary"
     },
