@@ -129,8 +129,8 @@
     "ActionButton": {
       "hoverBackground": "backgroundPrimary",
       "hoverBorderColor": "foregroundPrimary",
-      "pressedBackground": "foregroundSecondary",
-      "pressedBorderColor": "foregroundSecondary"
+      "pressedBackground": "#393941",
+      "pressedBorderColor": "#393941"
     },
 
     "ToggleButton": {
