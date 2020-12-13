@@ -441,9 +441,9 @@
     },
 
     "WelcomeScreen": {
-      "background": "#272728",
-      "Projects.background": "backgroundPrimary",
-      "separatorColor": "borderSecondary"
+      "background": "backgroundPrimary",
+      "SidePanel.background": "272728",
+      "separatorColor": "borderPrimary"
     },
 
     "OptionPane": {
