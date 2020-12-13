@@ -129,8 +129,8 @@
     "ActionButton": {
       "hoverBackground": "backgroundPrimary",
       "hoverBorderColor": "foregroundPrimary",
-      "pressedBackground": "foregroundSecondary",
-      "pressedBorderColor": "foregroundSecondary"
+      "pressedBackground": "#393941",
+      "pressedBorderColor": "#393941"
     },
 
     "ToggleButton": {
@@ -153,6 +153,7 @@
     },
 
     "TabbedPane": {
+      "focusColor": "backgroundTintStrong",
       "underlineColor": "accentPrimary",
       "disabledUnderlineColor": "borderPrimary",
       "contentAreaColor": "borderPrimary",
@@ -203,9 +204,9 @@
     },
 
     "DragAndDrop": {
-      "areaForeground": "#2d2a2f",
-      "areaBackground": "#49d3e5",
-      "areaBorderColor": "#3a6a70"
+      "areaForeground": "foregroundPrimary",
+      "areaBackground": "backgroundTintSoft",
+      "areaBorderColor": "borderSecondary"
     },
 
     "ToolBar": {
@@ -219,7 +220,7 @@
     },
 
     "EditorPane": {
-      "foreground": "foregroundPrimary",
+      "foreground": "#foregroundPrimary",
       "background": "backgroundPrimary",
       "inactiveBackground": "backgroundPrimary"
     },
@@ -274,6 +275,7 @@
     },
 
     "Plugins": {
+      "hoverBackground": "backgroundTintFaint",
       "tagForeground": "foregroundPrimary",
       "tagBackground": "backgroundShadowSoft",
 
@@ -441,9 +443,9 @@
     },
 
     "WelcomeScreen": {
-      "background": "#272728",
-      "Projects.background": "backgroundPrimary",
-      "separatorColor": "borderSecondary"
+      "background": "backgroundPrimary",
+      "SidePanel.background": "272728",
+      "separatorColor": "borderPrimary"
     },
 
     "OptionPane": {
@@ -461,11 +463,11 @@
       "Violet": "#241e27",
       "Orange": "#2d251a",
       "Rose": "#2a1e24"
-    }
-  },
+    },
 
-  "SplitPane": {
-    "highlight": "backgroundPrimary"
+    "SplitPane": {
+      "highlight": "backgroundPrimary"
+    }
   },
 
   "icons": {
