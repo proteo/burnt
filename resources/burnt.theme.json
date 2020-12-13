@@ -274,6 +274,7 @@
     },
 
     "Plugins": {
+      "hoverBackground": "backgroundTintFaint",
       "tagForeground": "foregroundPrimary",
       "tagBackground": "backgroundShadowSoft",
 
